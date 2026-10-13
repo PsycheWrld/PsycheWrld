@@ -12,7 +12,7 @@ Network & Traffic Analysis
 Wireshark • Nmap 
 
 Operating Systems
-Windows 10/11 • Windows Server • Ubuntu • Kali • Whonix
+Windows • Windows Server • Ubuntu • Kali • Whonix
 
 Virtualization & Networking
 VirtualBox • pfSense • Docker
